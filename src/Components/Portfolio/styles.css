@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100vw;
+}
+
+img {
+  margin: 1em;
+}
