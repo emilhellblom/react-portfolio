@@ -1,0 +1,30 @@
+.home-wrapper {
+  width: 100vw;
+  background-size: cover;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.header {
+  background-image: url('https://images.pexels.com/photos/7480/sky-night-stars.jpg?w=1260&h=750&auto=compress&cs=tinysrgb');
+  width: 100vw;
+  height: 40vh;
+  flex-direction: column;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+
+.row {
+  width: 100vw;
+  height: 20em;
+  justify-content: center;
+  text-align: center;
+}
+
+.intro {
+  width: 30em;
+  font-size: 1.5em;
+  color: black;
+}
