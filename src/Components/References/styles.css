@@ -1,0 +1,32 @@
+.references-list {
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 25em;
+  height: 30em;
+  margin: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-img-top {
+  width: 23em;
+}
+
+li {
+  width: 18em;
+  margin: 0em;
+  padding: 0em;
+}
+
+li a {
+  color: black;
+}
+
+#email {
+  color: grey;
+}
